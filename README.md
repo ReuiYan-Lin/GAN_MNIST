@@ -12,5 +12,5 @@
   該圖片為1000次iteration的訓練過程中，Generator Network & Discrimiantor Network 的loss rate
   
 ![Generated Images](result/result_2.png?raw=True)   
-  該圖片為Generator Network 產生的手寫數字圖片(第一列為Generator Network的初始資料N)
+  該圖片為Generator Network 產生的手寫數字圖片(第一列為Generator Network的初始資料Noise)
   
